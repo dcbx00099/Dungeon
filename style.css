@@ -1,9 +1,9 @@
 :root {
-    --bg: #0b1020;
-    --card: #0f1724;
+    --bg: #e2e5ed;
+    --card: #005ff9;
     --accent: #ffcb6b;
-    --danger: #ff6b6b;
-    --muted: #9aa7bf;
+    --danger: #000000;
+    --muted: #5e0000;
     font-family: Inter, system-ui, Arial, sans-serif;
 }
 
@@ -11,7 +11,7 @@ html,
 body {
     height: 100%;
     margin: 0;
-    background: linear-gradient(180deg, var(--bg), #071023);
+    background: linear-gradient(180deg, var(--bg), #0338ac);
     color: #dfe9f3
 }
 
